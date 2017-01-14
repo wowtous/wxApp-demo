@@ -11,7 +11,11 @@
     "pages/test/button/button",
     "pages/test/checkbox/checkbox",
     "pages/test/form/form",
-    "pages/test/input/input"
+    "pages/test/input/input",
+    "pages/test/label/label",
+    "pages/test/picker/picker",
+    "pages/test/picker-view/picker-view",
+    "pages/test/radio/radio"
   ],
   "window":{
     "backgroundTextStyle":"light",
