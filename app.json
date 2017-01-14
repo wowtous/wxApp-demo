@@ -5,7 +5,10 @@
     "pages/test/data-bind/data-bind",
     "pages/test/comps/comps",
     "pages/test/scroll/scroll",
-    "pages/test/swiper/swiper"
+    "pages/test/swiper/swiper",
+    "pages/test/icon/icon",
+    "pages/test/progress/progress",
+    "pages/teset/button/button"
   ],
   "window":{
     "backgroundTextStyle":"light",

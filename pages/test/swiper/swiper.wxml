@@ -15,5 +15,6 @@
     </swiper-item>     
 </swiper>
 <view>
-    <text>{{text}}</text>
+    <text>  {{text}}  </text>
+    <text>  {{test}}  </text>
 </view>
