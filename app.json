@@ -8,7 +8,10 @@
     "pages/test/swiper/swiper",
     "pages/test/icon/icon",
     "pages/test/progress/progress",
-    "pages/teset/button/button"
+    "pages/test/button/button",
+    "pages/test/checkbox/checkbox",
+    "pages/test/form/form",
+    "pages/test/input/input"
   ],
   "window":{
     "backgroundTextStyle":"light",

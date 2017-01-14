@@ -8,11 +8,12 @@
   box-sizing: border-box;
 }
 
-/** 修改button默认的点击态样式类**/
-.button-hover{
-  background-color:red;
+.textStyle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-/** 添加自定义button点击态样式类**/
-.other-button-hover{
-  background-color:blur;
+
+.textContainer {
+  margin-top: 200px;
 }
