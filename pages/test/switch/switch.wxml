@@ -1,0 +1,13 @@
+<view class="section section_gap">
+    <view class="section__title">type="switch" => {{switch1Checked}}</view>
+    <view class="body-view">
+        <switch checked="{{switch1Checked}}" bindchange="switch1Change"/>
+    </view>
+</view>
+
+<view class="section section_gap">
+    <view class="section__title">type="checkbox" => {{switch2Checked}}</view>
+    <view class="body-view">
+        <switch type="checkbox" checked="{{switch2Checked}}" bindchange="switch2Change"/>
+    </view>
+</view>

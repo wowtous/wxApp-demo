@@ -15,7 +15,10 @@
     "pages/test/label/label",
     "pages/test/picker/picker",
     "pages/test/picker-view/picker-view",
-    "pages/test/radio/radio"
+    "pages/test/radio/radio",
+    "pages/test/slider/slider",
+    "pages/test/switch/switch",
+    "pages/test/textarea/textarea"
   ],
   "window":{
     "backgroundTextStyle":"light",
